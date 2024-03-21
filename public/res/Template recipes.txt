@@ -1,0 +1,17 @@
+result
+i
+item1
+.
+.
+.
+itemN
+m
+mat1
+.
+.
+.
+matN
+'\n'
+.
+.
+.

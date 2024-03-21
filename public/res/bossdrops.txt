@@ -1,0 +1,10 @@
+boss name
+material №
+droprate mat №
+.
+.
+.
+boss name
+.
+.
+.
